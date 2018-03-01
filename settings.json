@@ -21,7 +21,7 @@
   // favicon
   "favicon": "public/favicon.ico",
 
-  // Uses bootswatch themes (http://bootswatch.com/)
+  // Uses bootswatch themes (zhttp://bootswatch.com/)
   // Valid options:
   //     Cerulean, Cosmo, Cyborg, Darkly, Flatly, Journal, Lumen, Paper,
   //     Readable, Sandstone, Simplex, Slate, Spacelab, Superhero, United, Yeti
@@ -29,7 +29,7 @@
   // litera , solor , pulse , materia ,minty
 
   // theme (see /public/themes for available themes)
-  "theme": "Cerulean",
+  "theme": "Cosmo",
 
   // port to listen for requests on.
   "port" : 3001,
@@ -50,9 +50,9 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 8620,
-    "user": "BitCoinCandyrpc",
-    "pass": "AnagiLZv3JRdCdjDQb6Ugy"
+    "port": 8011,
+    "user": "PennyBaseCoinrpc",
+    "pass": "9DNuGaAstNWtuN16Upw"
   },
 
   // confirmations
